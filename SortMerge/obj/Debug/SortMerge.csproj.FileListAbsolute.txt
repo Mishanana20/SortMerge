@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\bin\Debug\SortMerge.exe.config
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\bin\Debug\SortMerge.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\bin\Debug\SortMerge.pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\obj\Debug\SortMerge.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\obj\Debug\SortMerge.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\obj\Debug\SortMerge.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortMerge\obj\Debug\SortMerge.pdb
